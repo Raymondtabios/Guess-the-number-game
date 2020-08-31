@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "rn-test",
+    "slug": "rn-test",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Guess The Number Game",
+    "githubUrl": "https://github.com/Raymondtabios/React-Native-Projects.git"
+  }
+}
